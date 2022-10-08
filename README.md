@@ -1,10 +1,8 @@
 # MyHiltSimpleExample
 <ol>
   <li>no package - <code>App.kt</code> file - add code <b><code>@HiltAndroidApp</code></b></li>
-  <li><code>di.module> package - <code>ApplicationModule.kt</code></li>
-    <ol>
-      <li>provide all dependencies like retrofit instance, base url </li>
-     </ol>
+  <li><code>di.module</code> package - <code>ApplicationModule.kt</code></li>
+    <ol><li>provide all dependencies like retrofit instance, base url</li></ol>
 </ol>
 
 
